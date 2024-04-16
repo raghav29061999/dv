@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dv
+Version: 1.0.0
+Summary: A package for data visualization
+Home-page: https://github.com/raghav29061999/dv
+Author: Raghav Singhal
+Author-email: singhalraghav.59@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+A package that provides functionality for data visualization using pandas, seaborn, and matplotlib.
