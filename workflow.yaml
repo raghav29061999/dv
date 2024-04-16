@@ -27,4 +27,4 @@ jobs:
         with:
           user: __token__
           password: ${{ secrets.PYPI_TOKEN }}
-          distributions: C:\Users\singh\OneDrive\Desktop\graphs\dist\dv-1.0.0.tar.gz
+          distributions: dist/*
