@@ -8,7 +8,7 @@ setup(
     description='A package for data visualization',
     long_description='A package that provides functionality for data visualization using pandas, seaborn, and matplotlib.',
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/dv',
+    url='https://github.com/raghav29061999/dv',
     packages=find_packages(),
     install_requires=[
         'pandas',
