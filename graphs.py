@@ -27,6 +27,7 @@ class DataVisualizer:
     def __init__(self, dataframe: pd.DataFrame):
 
         self.numeric_df = dataframe.select_dtypes(include=['int64', 'float64'])
+        print("I am working on it")
 
     
     def create_heatmap(self,df: pd.DataFrame) -> pd.DataFrame:
